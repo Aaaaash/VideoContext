@@ -8,7 +8,7 @@ var ctx = new VideoContext()
 
 A video context will synchronise all the media being played through it.
 
-
+dasdasdasdsadsa
 ```JavaScript
 ctx.play();     //play all
 ctx.pause();    //pause all
