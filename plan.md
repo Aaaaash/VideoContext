@@ -15,6 +15,15 @@ ctx.pause();    //pause all
 ctx.currentTime //set to seek through timeline
 ```
 
+dasdasdasdsadsadas
+dadadadsadasd
+addasd
+add
+dadadadsadasdd
+addq
+effectq
+effectq
+dadadadsadasdasdasdas
 
 ## SourceNodeAPI
 
