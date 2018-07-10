@@ -22,6 +22,11 @@ ctx.currentTime //set to seek through timeline
 
 Creating via passing a url string implies the context handles the creation/deletion of the underlying element. Creating via passing an elemenet implies the user is responsible for the creation/deletion of the underlying element.
 
+dadadadsad 
+dadadadsadd
+asad
+addas
+dasdasdasdsadsad
 ```JavaScript
 var videoNode  = ctx.createVideoSourceNode(element);
 var videoNode  = ctx.createVideoSourceNode(str);
